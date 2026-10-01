@@ -20,7 +20,7 @@ body{
 
 .main{
   display: grid;
-  grid-template-columns: 1.5  fr 3fr;
+  grid-template-columns: 1.5fr 3fr;
   gap: 20px;
   margin-bottom: 20px;
 }
